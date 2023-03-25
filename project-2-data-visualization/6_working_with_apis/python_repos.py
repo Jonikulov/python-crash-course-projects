@@ -1,5 +1,4 @@
 import requests
-from pprint import pprint
 
 # Make an API call and check the response.
 url = "https://api.github.com/search/repositories"
